@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-   int ika = 19;   
+   int ika = 66;   
 
 // Tulostusehdot   
 
